@@ -31,6 +31,7 @@ It’s designed with a **dark-themed, professional GUI** and demonstrates core P
 ## 📂 Project Structure
 expense-tracker/
 │── expense_tracker.py # Main application code
+
 │── README.md # Project documentation
 ---
 
