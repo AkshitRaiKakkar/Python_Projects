@@ -29,7 +29,7 @@ It’s designed with a **dark-themed, professional GUI** and demonstrates core P
 ---
 ## 📸 Screenshot
 
-![Expense Tracker Screenshot](expensetrackerss.jpg)
+![Expense Tracker Screenshot]("C:\Users\LENOVO\OneDrive\Desktop\expensetrackerss.jpg")
 
 ## 📂 Project Structure
 expense-tracker/
