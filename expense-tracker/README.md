@@ -38,6 +38,6 @@ expense-tracker/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/<AkshitRaikakkar>/expense_tracker.git
+git clone https://github.com/<AkshitRaikakkar>/Python_Projects.git
 
 
