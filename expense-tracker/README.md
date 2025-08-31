@@ -29,7 +29,7 @@ It’s designed with a **dark-themed, professional GUI** and demonstrates core P
 ---
 ## 📸 Screenshot
 
-![Expense Tracker Screenshot](expensetrackerss)
+![Expense Tracker Screenshot](expensetrackerss.jpg)
 
 ## 📂 Project Structure
 expense-tracker/
