@@ -27,6 +27,9 @@ It’s designed with a **dark-themed, professional GUI** and demonstrates core P
 - **List of Dictionaries** – to store and manage expenses efficiently  
 
 ---
+## 📸 Screenshot
+
+![Expense Tracker Screenshot](expensetrackerss)
 
 ## 📂 Project Structure
 expense-tracker/
