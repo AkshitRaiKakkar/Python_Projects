@@ -27,9 +27,6 @@ It’s designed with a **dark-themed, professional GUI** and demonstrates core P
 - **List of Dictionaries** – to store and manage expenses efficiently  
 
 ---
-## 📸 Screenshot
-
-![Expense Tracker Screenshot]("C:\Users\LENOVO\OneDrive\Desktop\expensetrackerss.jpg")
 
 ## 📂 Project Structure
 expense-tracker/
