@@ -34,10 +34,4 @@ expense-tracker/
 │── README.md # Project documentation
 ---
 
-## ▶️ How to Run
-
-1. Clone this repository:
-```bash
-git clone https://github.com/<AkshitRaikakkar>/Python_Projects.git
-
 
